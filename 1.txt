@@ -1,1 +1,2 @@
 Hello, python
+Learning is great!
